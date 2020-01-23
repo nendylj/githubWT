@@ -17,7 +17,7 @@ git config --global user.name "djnenkov"
 Add files or alter current project
 
 ## Step 4
-Run through the commands to makea commit history
+Run through the commands to make a commit history
 '''git
 git add .
 git commit -m "initial commit"
