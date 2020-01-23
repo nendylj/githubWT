@@ -22,3 +22,7 @@ Run through the commands to make a commit history
 git add .
 git commit -m "initial commit"
 '''
+
+## Step 5
+Commands to commit to remote repository
+
