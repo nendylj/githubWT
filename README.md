@@ -8,4 +8,5 @@ Initialize the repository by running the command below
 Configure your username and email using the commands below
 
 ## Step 3
-Ass files or alter current project
+Add files or alter current project
+
